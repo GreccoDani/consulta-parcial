@@ -1,0 +1,2 @@
+# consulta-parcial
+,mn,mn
